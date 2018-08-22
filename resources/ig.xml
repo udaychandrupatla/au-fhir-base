@@ -778,7 +778,47 @@
       <sourceReference>
         <reference value="Immunization/immunization-example2"/>
       </sourceReference>
-    </resource>    
+    </resource>  
+    <resource>
+      <example value="true"/>
+      <name value="Practitioner as a Radiologist"/>
+      <description value="Shows a typical practitioner as a Radilogist"/>
+      <sourceReference>
+        <reference value="Practitioner/example1"/>
+      </sourceReference>
+    </resource>
+    <resource>
+      <example value="true"/>
+      <name value="Location of a Practitioner who is a Radiologist"/>
+      <description value="Shows a typical location of a Radilogist"/>
+      <sourceReference>
+        <reference value="Location/example1"/>
+      </sourceReference>
+    </resource>
+    <resource>
+      <example value="true"/>
+      <name value="Organisation of a Radiologist"/>
+      <description value="Shows a typical organisation of a Radiologist"/>
+      <sourceReference>
+        <reference value="Organization/example1"/>
+      </sourceReference>
+    </resource>
+    <resource>
+      <example value="true"/>
+      <name value="Practitioner Role of a Radiologist"/>
+      <description value="Shows a typical practitioner role of a Radiologist"/>
+      <sourceReference>
+        <reference value="PractitionerRole/example1"/>
+      </sourceReference>
+    </resource>
+    <resource>
+      <example value="true"/>
+      <name value="HealthcareService of a Radiologist"/>
+      <description value="Shows a typical healthcare service using the identifer profile for HPI-O, and eligibility informationof a Radiologist"/>
+      <sourceReference>
+        <reference value="HealthcareService/example1"/>
+      </sourceReference>
+    </resource>
 </package>
   <page>
     <source value="index.html"/>

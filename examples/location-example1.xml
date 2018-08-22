@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Location xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://hl7.org/fhir ../fhir-all-xsd/location.xsd">
+	<id value="example1"/>
+	<status value="active"/>	
+	<address>
+		<use value="work"/>
+		<line value="33 Slobodian Street"/>
+		<city value="Albion"/>
+		<state value="QLD"/>
+		<postalCode value="4010"/>
+		<country value="Australia"/>
+	</address>
+	<physicalType>
+		<coding>
+			<system value="si"/>
+			<code value="Site"/>
+			<display value="A collection of buildings or other locations such as a site or a campus."/>
+		</coding>
+	</physicalType>
+	<managingOrganization>
+		<reference value="Organization/example1"/>
+	</managingOrganization>
+	<partOf>
+		<reference value="Location/example1"/>
+	</partOf>
+	
+	
+</Location>

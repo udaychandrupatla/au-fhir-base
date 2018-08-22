@@ -40,3 +40,5 @@ ASIC identifiers ABN (Australian Business Number), ACN (Australian Company Numbe
 
 [Organisation with HPI-O](Organization-example0.html)
 
+[Organisation of a Radiologist](Organization-example1.html)
+
