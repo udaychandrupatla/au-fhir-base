@@ -2,4 +2,4 @@
 
 **Examples**
 
-[Location of a Radiologist](Location-example1.html)
+[Location of a Radiologist with Physical type and Address](Location-example1.html)

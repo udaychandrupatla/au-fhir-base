@@ -18,5 +18,5 @@ These definitions represent common data held in the Practitioner.qualification e
 
 [Practitioner with HPI-I, Prescriber Number and AHPRA Registration Number](Practitioner-example0.html)
 
-[Practitioner as a Radiologist](Practitioner-example1.html)
+[Practitioner as a Radiologist with Medicare Provider Number and AHPRA Qualiification details](Practitioner-example1.html)
 

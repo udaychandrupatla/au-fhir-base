@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Location xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://hl7.org/fhir ../fhir-all-xsd/location.xsd">
+<Location xmlns="http://hl7.org/fhir">
 	<id value="example1"/>
 	<status value="active"/>	
 	<address>
@@ -13,9 +12,9 @@
 	</address>
 	<physicalType>
 		<coding>
-			<system value="si"/>
-			<code value="Site"/>
-			<display value="A collection of buildings or other locations such as a site or a campus."/>
+			<system value="http://hl7.org/fhir/ValueSet/location-physical-type"/>
+			<code value="Si"/>
+			<display value="Site"/>
 		</coding>
 	</physicalType>
 	<managingOrganization>
@@ -23,7 +22,5 @@
 	</managingOrganization>
 	<partOf>
 		<reference value="Location/example1"/>
-	</partOf>
-	
-	
+	</partOf>	
 </Location>
