@@ -36,7 +36,8 @@
 				<system value="http://www.abs.gov.au/ausstats/abs@.nsf/mf/1220.0"/> 
 				<code value="253917"/> 
 				<display value="Diagnostic and Interventional Radiologist"/> 
-			</coding>			
+			</coding>		
+			<text value="Diagnostic and Interventional Radiologist"/>
 		</code> 		
 		<issuer> 
 			<reference value="https://www.ahpra.gov.au/"/>
