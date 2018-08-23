@@ -12,15 +12,10 @@
 	</address>
 	<physicalType>
 		<coding>
-			<system value="http://hl7.org/fhir/ValueSet/location-physical-type"/>
+			<system value="http://hl7.org/fhir/location-physical-type"/>
 			<code value="Si"/>
 			<display value="Site"/>
 		</coding>
-	</physicalType>
-	<managingOrganization>
-		<reference value="Organization/example1"/>
-	</managingOrganization>
-	<partOf>
-		<reference value="Location/example1"/>
-	</partOf>	
+		<text value="A collection of buildings or other locations such as a site or a campus."/>
+	</physicalType>		
 </Location>
