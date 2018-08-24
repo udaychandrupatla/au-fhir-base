@@ -39,7 +39,6 @@
 			<text value="Diagnostic and Interventional Radiologist"/>
 		</code> 		
 		<issuer> 
-			<reference value="https://www.ahpra.gov.au/"/>
 			<display value="AHPRA"/> 
 		</issuer> 
 	</qualification>
