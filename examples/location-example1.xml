@@ -16,6 +16,12 @@
 			<code value="Si"/>
 			<display value="Site"/>
 		</coding>
-		<text value="A collection of buildings or other locations such as a site or a campus."/>
-	</physicalType>		
+		<text value="A collection of buildings or other locations such as a site or a campus."/>	
+	</physicalType>
+	<managingOrganization>
+		<reference value="Organization/example1"/>
+	</managingOrganization>
+	<partOf>
+		<reference value="Location/example1"/>
+	</partOf>	
 </Location>

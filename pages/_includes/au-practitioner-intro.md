@@ -20,3 +20,4 @@ These definitions represent common data held in the Practitioner.qualification e
 
 [Practitioner as a Radiologist with HPI-I and AHPRA Qualiification details](Practitioner-example1.html)
 
+

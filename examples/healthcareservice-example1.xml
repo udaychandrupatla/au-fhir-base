@@ -48,6 +48,6 @@
 		<during> 
 			<start value="2019-08-15"/> 
 			<end value="2019-08-15"/> 
-		</during> 
-	</notAvailable> 
+		</during>
+    </notAvailable>
 	</HealthcareService>

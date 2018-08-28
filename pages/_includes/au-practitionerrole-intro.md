@@ -14,3 +14,4 @@ These definitions represent common data held in the PractitionerRole.identifier 
 [Practitioner Role as a Radiologist with ABN scoped identifier and SNOMED-CT coded specialty](PractitionerRole-example1.html)
 
 
+
